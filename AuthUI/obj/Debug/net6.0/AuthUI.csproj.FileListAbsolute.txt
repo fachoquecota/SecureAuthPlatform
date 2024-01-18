@@ -1,0 +1,67 @@
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\appsettings.Development.json
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\appsettings.json
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.staticwebassets.runtime.json
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.exe
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.deps.json
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.runtimeconfig.json
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.dll
+D:\NetCore\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.pdb
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.AssemblyInfoInputs.cache
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.AssemblyInfo.cs
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.CoreCompileInputs.cache
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.MvcApplicationPartsAssemblyInfo.cache
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.RazorAssemblyInfo.cache
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.RazorAssemblyInfo.cs
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.AuthUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthUI.props
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthUI.props
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthUI.props
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\bundle\AuthUI.styles.css
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\projectbundle\AuthUI.bundle.scp.css
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.dll
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\refint\AuthUI.dll
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.pdb
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.genruntimeconfig.cache
+D:\NetCore\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\ref\AuthUI.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.staticwebassets.runtime.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.exe
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.deps.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.runtimeconfig.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.pdb
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.AssemblyInfoInputs.cache
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.AssemblyInfo.cs
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.RazorAssemblyInfo.cache
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.RazorAssemblyInfo.cs
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.AuthUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthUI.props
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthUI.props
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthUI.props
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\bundle\AuthUI.styles.css
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\projectbundle\AuthUI.bundle.scp.css
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\refint\AuthUI.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.pdb
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.genruntimeconfig.cache
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\ref\AuthUI.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.AssemblyReference.cache
+C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.CopyComplete

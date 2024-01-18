@@ -1,0 +1,45 @@
+﻿@model AuthUI.Models.LoginModel
+
+@{
+    ViewData["Title"] = "User Login";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 mt-5">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="text-center">Bienvenido, inicia sesión</h3>
+                </div>
+                <div class="card-body">
+                    @if (TempData["ErrorMessage"] != null)
+                    {
+                        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+                    }
+                    <form asp-action="Index" method="post">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+                        <div class="form-group mb-3">
+                            <label asp-for="username" class="form-label">Nombre de usuario</label>
+                            <input asp-for="username" class="form-control" placeholder="Ingresa tu nombre de usuario" />
+                            <span asp-validation-for="username" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="password" class="form-label">Contraseña</label>
+                            <input asp-for="password" class="form-control" type="password" placeholder="Ingresa tu contraseña" />
+                            <span asp-validation-for="password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary">Iniciar sesión</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
