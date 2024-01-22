@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf101dbadb0f265daf74198b3a4dae07f6da675")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

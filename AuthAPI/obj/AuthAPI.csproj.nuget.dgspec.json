@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\3 .Net Core\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj": {}
+    "C:\\Users\\fchoquecota\\Documents\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\3 .Net Core\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj": {
+    "C:\\Users\\fchoquecota\\Documents\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\3 .Net Core\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj",
+        "projectUniqueName": "C:\\Users\\fchoquecota\\Documents\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj",
         "projectName": "AuthAPI",
-        "projectPath": "C:\\Users\\user\\Documents\\3 .Net Core\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\3 .Net Core\\SecureAuthPlatform\\AuthAPI\\obj\\",
+        "projectPath": "C:\\Users\\fchoquecota\\Documents\\SecureAuthPlatform\\AuthAPI\\AuthAPI.csproj",
+        "packagesPath": "C:\\Users\\fchoquecota\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fchoquecota\\Documents\\SecureAuthPlatform\\AuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fchoquecota\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

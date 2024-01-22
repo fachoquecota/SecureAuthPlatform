@@ -65,3 +65,41 @@ C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\M
 C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.AssemblyReference.cache
 C:\Users\user\Documents\3 .Net Core\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.CopyComplete
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\appsettings.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.staticwebassets.runtime.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.exe
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.deps.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.runtimeconfig.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\AuthUI.pdb
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.AssemblyReference.cache
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.AssemblyInfoInputs.cache
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.AssemblyInfo.cs
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.CoreCompileInputs.cache
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.RazorAssemblyInfo.cache
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.RazorAssemblyInfo.cs
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.sourcelink.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.AuthUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthUI.props
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthUI.props
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthUI.props
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\bundle\AuthUI.styles.css
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\scopedcss\projectbundle\AuthUI.bundle.scp.css
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.csproj.CopyComplete
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\refint\AuthUI.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.pdb
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.genruntimeconfig.cache
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\ref\AuthUI.dll
