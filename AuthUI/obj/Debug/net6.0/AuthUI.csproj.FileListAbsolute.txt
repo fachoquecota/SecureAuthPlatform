@@ -103,3 +103,4 @@ C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\refint
 C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.pdb
 C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\AuthUI.genruntimeconfig.cache
 C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\obj\Debug\net6.0\ref\AuthUI.dll
+C:\Users\fchoquecota\Documents\SecureAuthPlatform\AuthUI\bin\Debug\net6.0\Newtonsoft.Json.dll

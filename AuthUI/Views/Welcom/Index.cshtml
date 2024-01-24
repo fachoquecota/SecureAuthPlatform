@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Bienvenido";
+}
+
+<h2>Página Protegida</h2>
+
+@if (ViewBag.Username != null)
+{
+    <p>Bienvenido, @ViewBag.Username! Has iniciado sesión correctamente y accedido a una página protegida.</p>
+
+    if (ViewBag.Modules != null && ViewBag.Modules.Length > 0)
+    {
+        <h3>Módulos:</h3>
+        <ul>
+            @foreach (var module in ViewBag.Modules)
+            {
+                <li>@module</li>
+            }
+        </ul>
+    }
+}
+else
+{
+    <p>No se pudo obtener la información del usuario.</p>
+}

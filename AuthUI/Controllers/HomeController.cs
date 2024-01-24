@@ -56,7 +56,7 @@ namespace AuthUI.Controllers
                             };
                             Response.Cookies.Append("jwt", result.token, cookieOptions);
 
-                            return RedirectToAction("Index", "Users");
+                            return RedirectToAction("Index", "Welcom");
                         }
                     }
                     else if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)

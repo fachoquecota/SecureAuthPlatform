@@ -37,7 +37,7 @@ namespace AuthAPI.Business.Modules.Auth
             }
 
             // Obtén el usuario solo por el nombre de usuario
-            var user = await _auth.AuthenticateUserAsync(username);
+            UserModel user = await _auth.AuthenticateUserAsync(username);
 
             // Verifica si el usuario existe y si la contraseña coincide
             if (user == null || !BCrypt.Net.BCrypt.Verify(password, user.passwordHash))

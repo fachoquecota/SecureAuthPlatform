@@ -61,6 +61,9 @@ builder.Services.AddTransient<Connection>();
 // Registra TokenService
 builder.Services.AddSingleton<TokenService>();
 
+builder.Services.AddSingleton<TokenValidationService>();
+
+
 var app = builder.Build();
 
 // Configura el pipeline de solicitudes HTTP.
